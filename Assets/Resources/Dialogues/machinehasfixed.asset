@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3287008f4a8de154f99db75d9889ea76, type: 3}
+  m_Name: machinehasfixed
+  m_EditorClassIdentifier: 
+  DialogueList:
+  - Name: ChinLi
+    Sentence: "\u4FEE\u597D\u4E86"
+    HaveSelect: 0
+    Select1: 
+    Select2: 
+    Select1Action: 0
+    Select2Action: 0
+  - Name: ChinLi
+    Sentence: "\u6F6D\u6850\u904E\u4F86\u6211\u5011\u8981\u8D70\u4E86"
+    HaveSelect: 0
+    Select1: 
+    Select2: 
+    Select1Action: 0
+    Select2Action: 0
+  - Name: "\u6F6D\u6850"
+    Sentence: "\u4F86\u4E86"
+    HaveSelect: 0
+    Select1: 
+    Select2: 
+    Select1Action: 0
+    Select2Action: 0
+  - Name: "\u50B3\u9001\u5668"
+    Sentence: "(\u50B3\u9001)"
+    HaveSelect: 1
+    Select1: "\u524D\u5F80\u4E00\u6A13"
+    Select2: "\u524D\u5F80\u5927\u5EF3"
+    Select1Action: 5
+    Select2Action: 5

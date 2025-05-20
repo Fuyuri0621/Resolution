@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 813486bb556aece478f40ae169dd954f, type: 3}
+  m_Name: AttatkData
+  m_EditorClassIdentifier: 
+  info:
+  - attackID: 0
+    damageRate: 20
+    stunRate: 0
+    knockbackRate: 2
+    size: {x: 2, y: 2, z: 2}
+    zoffset: 0
+  - attackID: 1
+    damageRate: 15
+    stunRate: 0
+    knockbackRate: 2
+    size: {x: 2, y: 2, z: 2}
+    zoffset: 0
+  - attackID: 2
+    damageRate: 25
+    stunRate: 0
+    knockbackRate: 2
+    size: {x: 2.5, y: 2, z: 2}
+    zoffset: 0
+  - attackID: 6
+    damageRate: 30
+    stunRate: 0
+    knockbackRate: 2
+    size: {x: 0.8, y: 2, z: 2.5}
+    zoffset: 0
+  - attackID: 7
+    damageRate: 10
+    stunRate: 0
+    knockbackRate: 2
+    size: {x: 2.5, y: 2, z: 2.5}
+    zoffset: -1
+  - attackID: 8
+    damageRate: 30
+    stunRate: 0
+    knockbackRate: 2
+    size: {x: 3, y: 2, z: 3}
+    zoffset: -0.5
+  - attackID: 9
+    damageRate: 10
+    stunRate: 0
+    knockbackRate: 2
+    size: {x: 1, y: 2, z: 30}
+    zoffset: 1
+  - attackID: 5
+    damageRate: 10
+    stunRate: 0
+    knockbackRate: 2
+    size: {x: 2, y: 2, z: 2}
+    zoffset: 0

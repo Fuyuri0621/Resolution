@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6aba78a4c5c33b49b39118276a2901f, type: 3}
+  m_Name: TgoB4
+  m_EditorClassIdentifier: 
+  id: 10
+  type: 0
+  getItemID: 0
+  Interactprompt: FreightElevator
+  MissionName: "\u8CA8\u68AF"
+  shortDescription: "\u555F\u52D5\u8CA8\u68AF"
+  description: "\u555F\u52D5\u8CA8\u68AF"
+  Waypointsid: 
+  accomplishBehavior: 2
+  AccomplishNotice: 
+  AccomplishDialogue: "\u53BB\u6253\u958B\u9580\u5427"
+  DialogueSpeaker: TANTONG
+  dialogue: {fileID: 0}

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65b722444fd841a43b215e8f0abd5f98, type: 3}
+  m_Name: BackpackTable
+  m_EditorClassIdentifier: 
+  DataList:
+  - id: 0
+    type: 1
+    name: "ID\u5361"
+    shortDescription: "\u67D0\u4EBA\u7684ID\u5361"
+    description: "\u5728\u54E1\u5DE5\u4F11\u606F\u5BA4\u88E1\u627E\u5230\u7684ID\u5361\uFF0C\u53EF\u4EE5\u9032\u5165\u5BE6\u9A57\u5BA4\u5167\u90E8"
+    iconPath: Image/UI/IDCard.png
+  - id: 1
+    type: 1
+    name: "\u500B\u4EBA\u7D42\u7AEF"
+    shortDescription: "\u99ED\u5165\u8A2D\u5099\u7684\u597D\u5E6B\u624B"
+    description: "\u5ABD\u5ABD\u900F\u904E\u535A\u58EB\u7559\u4E0B\u4F86\u7684\u7B46\u8A18\u505A\u51FA\u4F86\u7684,\u53EF\u4EE5\u548C\u96FB\u5B50\u8A2D\u5099\u5EFA\u7ACB\u806F\u7E6B"
+    iconPath: Image/UI/phone
+  - id: 2
+    type: 1
+    name: "\u7814\u7A76\u7B46\u8A18"
+    shortDescription: "\u95DC\u65BCXX\u7684\u7814\u7A76\u7B46\u8A18"
+    description: "\u7B2C\u4E00\u9801: \u6211\u5C07\u9280\u80CC\u7329\u7329\u548C\u87B3\u8782\u6DF7\u7A2E\u4E26\u5C07\u7260\u7684\u524D\u81C2\u6539\u9020
+      \u6210\u4E86AK-47\u3002\u9B91\u4F2F\u5DF2\u7D93\u7528\u68CD\u5B50\u9023\u7E8C\u6233\u4E86\u726080
+      \u500B\u5C0F\u6642\u3002\u5E0C\u671B\u7260\u4E0D\u6703\u9003\u8D70\u3002 \u7B2C\u4E8C\u9801:
+      \u7260\u9003\u8D70\u4E86\u3002"
+    iconPath: Image/UI/note
+  - id: 3
+    type: 1
+    name: "\u5408\u7167"
+    shortDescription: "\u7814\u7A76\u54E1\u548C\u5BB6\u4EBA\u7684\u5408\u7167"
+    description: "\u4E00\u5F35\u7814\u7A76\u54E1\u548C\u5BB6\u4EBA\u7684\u5408\u7167\u80CC\u9762\u5BEB\u84570324"
+    iconPath: Image/UI/picture
+  - id: 4
+    type: 1
+    name: "ID\u5361"
+    shortDescription: "\u5ABD\u5ABD\u7684ID\u5361"
+    description: "\u5ABD\u5ABD\u7684ID\u5361,\u53EF\u4EE5\u53C3\u89C0\u5BE6\u9A57"
+    iconPath: Image/UI/IDCard
+  - id: 5
+    type: 1
+    name: "ID\u5361"
+    shortDescription: "\u67D0\u4EBA\u7684ID\u5361"
+    description: "\u5728\u54E1\u5DE5\u4F11\u606F\u5BA4\u88E1\u627E\u5230\u7684ID\u5361,\u53EF\u4EE5\u9032\u5165\u5BE6\u9A57\u5BA4\u5167\u90E8"
+    iconPath: Uiux 1/IMG_5804
+  - id: 6
+    type: 1
+    name: "\u901A\u884C\u8B49"
+    shortDescription: "\u5BE6\u9A57\u5BA4\u7684\u901A\u884C\u8B49"
+    description: "\u4E00\u5F35\u901A\u884C\u8B49"
+    iconPath: Uiux 1/IMG_5804

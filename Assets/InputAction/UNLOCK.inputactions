@@ -1,0 +1,54 @@
+{
+    "name": "UNLOCK",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "6346880f-bb85-48d8-b746-acd0d99f372a",
+            "actions": [
+                {
+                    "name": "CHECK",
+                    "type": "Button",
+                    "id": "04072a70-a70b-4778-8c10-4d63e220ebe1",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "UNKOCK",
+                    "type": "Button",
+                    "id": "8279f232-b746-436b-af66-aeaece7b18df",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c7fffb6a-fdab-4298-ac19-ec696af3142f",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CHECK",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d1260a78-e259-4161-82f1-a2e402ca9029",
+                    "path": "<Keyboard>/f",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "UNKOCK",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

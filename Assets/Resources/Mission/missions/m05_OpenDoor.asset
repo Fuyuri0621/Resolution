@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6aba78a4c5c33b49b39118276a2901f, type: 3}
+  m_Name: m05_OpenDoor
+  m_EditorClassIdentifier: 
+  id: 0
+  type: 0
+  getItemID: 0
+  Interactprompt: KeycardDoor1
+  MissionName: "\u958B\u9580"
+  shortDescription: "\u4F7F\u7528\u9470\u5319\u5361\u958B\u9580"
+  description: "\u4F7F\u7528\u627E\u5230\u7684\u9470\u5319\u5361\u958B\u9580"
+  Waypointsid: 03000000
+  accomplishBehavior: 2
+  AccomplishNotice: 
+  AccomplishDialogue: "\u6210\u529F\u9032\u5165!"
+  DialogueSpeaker: "\u6C81\u68A8"
+  dialogue: {fileID: 0}

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: "Sophina_Menu \u6539\u5909\u7528 DEFAULTONLY"
+  m_EditorClassIdentifier: 
+  controls:
+  - name: clothes
+    icon: {fileID: 2800000, guid: d5f4eb0038b090d49a5afdbce7abe3eb, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: e9c1cd2c65c9b2345b71aaf950ee07cf, type: 2}
+    subParameters: []
+    labels: []
+  - name: Hair_Change
+    icon: {fileID: 2800000, guid: 1d60cc140921d3f4e875fbf72e05ef67, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 40761aa0be797994da43233beb6e0766, type: 2}
+    subParameters: []
+    labels: []
+  - name: Face_Change
+    icon: {fileID: 2800000, guid: 39cd5c3762ae2724b95b9716b4d88792, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 43af2ae7200eaec48ad2401e61f3ff09, type: 2}
+    subParameters: []
+    labels: []
+  - name: Setting
+    icon: {fileID: 2800000, guid: 351bcabc739b50b4b9434a85e4fc8a51, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 0a8b61c043de62a43a63c514f42274cc, type: 2}
+    subParameters: []
+    labels: []

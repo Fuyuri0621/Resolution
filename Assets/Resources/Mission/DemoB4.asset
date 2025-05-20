@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da17726b54066314fba4c855c60cdb99, type: 3}
+  m_Name: DemoB4
+  m_EditorClassIdentifier: 
+  MissionList:
+  - {fileID: 11400000, guid: 6e42cbe63bd0c854eb19fe54324e3d9c, type: 2}
+  - {fileID: 11400000, guid: 763a86e2127ddeb40b4fcd78add4beaa, type: 2}
+  - {fileID: 11400000, guid: c818832757d6084499a699e1510065ba, type: 2}
+  - {fileID: 11400000, guid: def6f1997cf960946b32ea3544e14330, type: 2}
+  - {fileID: 11400000, guid: 63da43f232aa65a4baf5f2f23b093791, type: 2}
+  - {fileID: 11400000, guid: c8a549109475c074993e420041a8b4a9, type: 2}
+  - {fileID: 11400000, guid: 79de930b4f3ad6648bc6b7cf8de55554, type: 2}
+  - {fileID: 11400000, guid: 40bb838826efed84b89541d09d3c2f70, type: 2}
+  - {fileID: 11400000, guid: 5e5bb0e2cc204dc43b06ae9714b56359, type: 2}

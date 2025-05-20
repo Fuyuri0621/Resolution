@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6aba78a4c5c33b49b39118276a2901f, type: 3}
+  m_Name: BossFight
+  m_EditorClassIdentifier: 
+  id: 21
+  type: 2
+  getItemID: 0
+  Interactprompt: 
+  MissionName: "\u5927\u6A39\u5B88\u885B"
+  shortDescription: "\u89E3\u6C7A\u6AAE\u5140"
+  description: "\u89E3\u6C7A\u6AAE\u5140"
+  Waypointsid: 
+  accomplishBehavior: 0
+  AccomplishNotice: 
+  AccomplishDialogue: 
+  DialogueSpeaker: 
+  dialogue: {fileID: 0}

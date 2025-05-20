@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05fd35bbb2232e24595964b65bda2f8b, type: 3}
+  m_Name: FanWpnCfg
+  m_EditorClassIdentifier: 
+  lightComboConfig:
+  - {fileID: 11400000, guid: 3085b8f3b4f127547bb775a4604149fc, type: 2}
+  - {fileID: 11400000, guid: 377bcd554b0a51c4ab67797af5b30ec8, type: 2}
+  - {fileID: 11400000, guid: 8deaf1ee8aad1804fb911519ade4d225, type: 2}
+  heavyComboConfig:
+  - {fileID: 11400000, guid: 899f3d36315a30d48a9be06a529726d1, type: 2}
+  - {fileID: 11400000, guid: 431580a1391251e4a8c3dad4f226fbbc, type: 2}
+  - {fileID: 11400000, guid: 8544111d41da54845879c530bb41f272, type: 2}

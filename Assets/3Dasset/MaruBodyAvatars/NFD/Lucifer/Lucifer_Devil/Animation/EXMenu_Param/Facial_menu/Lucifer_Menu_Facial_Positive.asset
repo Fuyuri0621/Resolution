@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Lucifer_Menu_Facial_Positive
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Smile1
+    icon: {fileID: 2800000, guid: 775d158310fb5974a9917433543afc29, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Smile2
+    icon: {fileID: 2800000, guid: 8fe5117f19b120945b033740c309917c, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Smile3
+    icon: {fileID: 2800000, guid: 34ca90d92490014419cebd29c009a2ba, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Smile4
+    icon: {fileID: 2800000, guid: 4c33c45503bde5a44adf5c2fae33ba8a, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Smile5
+    icon: {fileID: 2800000, guid: ee067cc21ee0b1540ac42e59a25a91c7, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: kirakira
+    icon: {fileID: 2800000, guid: 3803e054aa1559044a8bcc8638e8b377, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 6
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Shy
+    icon: {fileID: 2800000, guid: c85f9444d78d60b46abd90bdccd5a724, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 7
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Wink
+    icon: {fileID: 2800000, guid: edc68ea7aa4e7ae46b645e82f33511d5, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 8
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

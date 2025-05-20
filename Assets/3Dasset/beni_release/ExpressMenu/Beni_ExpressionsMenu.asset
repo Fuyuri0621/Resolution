@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Beni_ExpressionsMenu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Beni_costume
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 3e89ce638b001754dba115eeaa66ba7d, type: 2}
+    subParameters: []
+    labels: []
+  - name: Beni_option
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: db8eddff2eacf4840b6ed1ab33d5d443, type: 2}
+    subParameters: []
+    labels: []
+  - name: Beni_hair_option
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 0fbd6c257bda6db41a0a0b254c54b443, type: 2}
+    subParameters: []
+    labels: []

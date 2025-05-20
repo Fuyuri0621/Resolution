@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da17726b54066314fba4c855c60cdb99, type: 3}
+  m_Name: Demo1F
+  m_EditorClassIdentifier: 
+  MissionList:
+  - {fileID: 11400000, guid: d6e45624ffae22c42a5b94666b257ba4, type: 2}
+  - {fileID: 11400000, guid: e915ac47d662a384794d62ab90c7e3c9, type: 2}

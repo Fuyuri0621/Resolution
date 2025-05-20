@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05fd35bbb2232e24595964b65bda2f8b, type: 3}
+  m_Name: SpearWpnCfg 1
+  m_EditorClassIdentifier: 
+  lightComboConfig:
+  - {fileID: 11400000, guid: 37608a01cf728d6479268068c929665d, type: 2}
+  - {fileID: 11400000, guid: 1c13873b093900546bac68002001d7e2, type: 2}
+  - {fileID: 11400000, guid: 1e4d62d9d6af4d946b4051386b0e80bf, type: 2}
+  heavyComboConfig:
+  - {fileID: 11400000, guid: 2e05c5a6ecf0304499dcb36c25d6507b, type: 2}
+  - {fileID: 11400000, guid: 1730fb8306eb6214b845fe003045f2c5, type: 2}
+  - {fileID: 11400000, guid: 948ce6983de8c3c4f97f492ebe1aa550, type: 2}
+  - {fileID: 11400000, guid: 0219632b58295944d8f732346e0a410e, type: 2}
+  - {fileID: 11400000, guid: 2a83e91a129f65943a5db96fb1a51b9e, type: 2}
+  - {fileID: 11400000, guid: 60597dc1f77b3934889bba8171800eff, type: 2}
+  - {fileID: 11400000, guid: e4a68b7e7b954ae4bb6c73ac08f0fcfa, type: 2}

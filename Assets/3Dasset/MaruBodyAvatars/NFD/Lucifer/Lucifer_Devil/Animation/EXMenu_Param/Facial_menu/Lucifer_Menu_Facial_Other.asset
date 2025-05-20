@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Lucifer_Menu_Facial_Other
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Tere
+    icon: {fileID: 2800000, guid: 528afc06aea32a944b12c5370f721a00, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 25
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Uee
+    icon: {fileID: 2800000, guid: 58ba778db5cb2424ca6da72a8b342f5b, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 26
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sleep
+    icon: {fileID: 2800000, guid: d3ddb2ff0f5be0e43ba4fc550dc67d05, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 27
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Nagomi
+    icon: {fileID: 2800000, guid: dde2fed0bf35ada46a7d5471ca481c3e, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 28
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Grrr
+    icon: {fileID: 2800000, guid: 18f880139b1b1204f85ed30f8b257d9c, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 29
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Bonyari
+    icon: {fileID: 2800000, guid: 28d9a82c36c1d004983f83a5ae132aa6, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 30
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Muu
+    icon: {fileID: 2800000, guid: 47ec651210089bf48a7086cadc28289b, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 31
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sirome
+    icon: {fileID: 2800000, guid: 1b5f9d1bc1b6d9f449d5bfdb97133df7, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 32
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

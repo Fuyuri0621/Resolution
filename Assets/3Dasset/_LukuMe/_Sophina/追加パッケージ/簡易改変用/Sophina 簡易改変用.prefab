@@ -1,0 +1,832 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &459487390175627431
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: expressionsMenu
+      value: 
+      objectReference: {fileID: 11400000, guid: 33eb565031b14f14997c523c16e8d309,
+        type: 2}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: expressionParameters
+      value: 
+      objectReference: {fileID: 11400000, guid: df5b4a6475958954f8528a7ad3feda63,
+        type: 2}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.size
+      value: 110
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[19].hash
+      value: -1640046700
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[19].name
+      value: DISABLE 2sec
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[20].hash
+      value: 580539462
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[20].name
+      value: ENABLE 2sec
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[21].hash
+      value: -1795476888
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[21].name
+      value: In station
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[22].hash
+      value: -1620344803
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[22].name
+      value: Particle
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[23].hash
+      value: -531597658
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[23].name
+      value: Particle 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[24].hash
+      value: -1827438375
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[24].name
+      value: DEFAULT
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[25].hash
+      value: -437911823
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[25].name
+      value: DEFAULT InStationn
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[26].hash
+      value: -1721592883
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[26].name
+      value: EMOTE 8 Fist
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[27].hash
+      value: 1755631489
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[27].name
+      value: EMOTE 11 Victory
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[28].hash
+      value: 1360002340
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[28].name
+      value: EMOTE 12 RockNRoll
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[29].hash
+      value: -811264625
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[29].name
+      value: EMOTE 13 HandGun
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[30].hash
+      value: 1749910388
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[30].name
+      value: EMOTE 14 ThumbsUp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[31].hash
+      value: -138447452
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[31].name
+      value: EMOTE 10 FingerPoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[32].hash
+      value: -1222144127
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[32].name
+      value: EMOTE 9 HandOpen
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[33].hash
+      value: 1240901309
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[33].name
+      value: IDLE
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[34].hash
+      value: -1337264942
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[34].name
+      value: In station
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[35].hash
+      value: -1769969854
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[35].name
+      value: EMOTE 8 reversal Fist
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[36].hash
+      value: 1754437795
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[36].name
+      value: EMOTE 11 reversal Victory
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[37].hash
+      value: 905532590
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[37].name
+      value: EMOTE 12 reversal RockNRoll
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[38].hash
+      value: -458161752
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[38].name
+      value: EMOTE 13 reversal HandGun
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[39].hash
+      value: 1703850553
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[39].name
+      value: EMOTE 14 reversal ThumbsUp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[40].hash
+      value: -673905132
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[40].name
+      value: EMOTE 10 reversal FingerPoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[41].hash
+      value: 1946654073
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[41].name
+      value: EMOTE 9 reversal HandOpen
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[42].hash
+      value: 1405628110
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[42].name
+      value: Gimmick ON
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[43].hash
+      value: 852108828
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[43].name
+      value: AFK
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[44].hash
+      value: 835573639
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[44].name
+      value: DEFAULT Hair
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[45].hash
+      value: 780922426
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[45].name
+      value: Bob Hair
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[46].hash
+      value: 1682530537
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[46].name
+      value: Long Hair
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[47].hash
+      value: -390107609
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[47].name
+      value: Long Hair InStationn
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[48].hash
+      value: -2147235728
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[48].name
+      value: DEFAULT hair InStation
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[49].hash
+      value: -895884827
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[49].name
+      value: Bob Hair InStation
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[50].hash
+      value: -212239744
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[50].name
+      value: Entry
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[51].hash
+      value: -1337408875
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[51].name
+      value: ear L
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[52].hash
+      value: -913551679
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[52].name
+      value: Default
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[53].hash
+      value: 167485173
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[53].name
+      value: Tail
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[54].hash
+      value: 1097376782
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[54].name
+      value: Skirt
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[55].hash
+      value: 670976977
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[55].name
+      value: face hoppe
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[56].hash
+      value: -490534680
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[56].name
+      value: nadenade
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[57].hash
+      value: -1318779072
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[57].name
+      value: In station
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[58].hash
+      value: -1924688676
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[58].name
+      value: pullL
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[59].hash
+      value: 2001250751
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[59].name
+      value: pullR
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[60].hash
+      value: 55722083
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[60].name
+      value: pull LR
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[61].hash
+      value: 756826847
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[61].name
+      value: pull RL
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[62].hash
+      value: 1246232566
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[62].name
+      value: ear R
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[63].hash
+      value: -676138916
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[63].name
+      value: ear LR
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[64].hash
+      value: -932674518
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[64].name
+      value: 'Empty '
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[65].hash
+      value: -721291597
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[65].name
+      value: Empty
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[66].hash
+      value: -1032478821
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[66].name
+      value: eye
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[67].hash
+      value: -1894959172
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[67].name
+      value: In station
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[68].hash
+      value: 780547277
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[68].name
+      value: Daisuki OFF
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[69].hash
+      value: -628643144
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[69].name
+      value: da
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[70].hash
+      value: -1765186415
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[70].name
+      value: i
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[71].hash
+      value: -375848883
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[71].name
+      value: th
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[72].hash
+      value: 1405369925
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[72].name
+      value: ki
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[73].hash
+      value: -584851477
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[73].name
+      value: In station
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[74].hash
+      value: -266243867
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[74].name
+      value: ENABLE DEFAULT
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[75].hash
+      value: 554037932
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[75].name
+      value: DISABLE DEFAULT
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[76].hash
+      value: -2074879397
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[76].name
+      value: In station
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[77].hash
+      value: 1385367041
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[77].name
+      value: Empty
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[78].hash
+      value: -1611197084
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[78].name
+      value: Lip reset
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[79].hash
+      value: -382134147
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[79].name
+      value: In station
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[80].hash
+      value: -1570252363
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[80].name
+      value: Mekakure
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[81].hash
+      value: 202288858
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[81].name
+      value: Mekakure InStation
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[82].hash
+      value: -291499415
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[82].name
+      value: Patsun
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[83].hash
+      value: -2139550293
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[83].name
+      value: Patsun InStation
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[84].hash
+      value: -1945737318
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[84].name
+      value: Hair_Long
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[85].hash
+      value: -1321398420
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[85].name
+      value: Hair_Long InStation
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[86].hash
+      value: -334750367
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[86].name
+      value: Hair_wake
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[87].hash
+      value: 644505956
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[87].name
+      value: Hair_wake InStation
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[88].hash
+      value: -1211744735
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[88].name
+      value: Hair_Short
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[89].hash
+      value: -921158128
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[89].name
+      value: Hair_Short InStation
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[90].hash
+      value: 2031077371
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[90].name
+      value: Hair_ahoge
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[91].hash
+      value: 1119218843
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[91].name
+      value: Hair_ahoge InStation
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[92].hash
+      value: -1362662894
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[92].name
+      value: Hair_side_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[93].hash
+      value: 1536085714
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[93].name
+      value: Hair_side_right InStation
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[94].hash
+      value: -58812079
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[94].name
+      value: Hair_side_left
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[95].hash
+      value: -57952196
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[95].name
+      value: Hair_side_left InStation
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[96].hash
+      value: -1321100226
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[96].name
+      value: Hue
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[97].hash
+      value: -272500762
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[97].name
+      value: Hue InStation
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[98].hash
+      value: 955290589
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[98].name
+      value: Neko ON
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[99].hash
+      value: 2101272538
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[99].name
+      value: Neko OFF
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[100].hash
+      value: -343935139
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[100].name
+      value: Neko ON InStation
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[101].hash
+      value: 1209668588
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[101].name
+      value: Neko OFF InStation
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[102].hash
+      value: 2132113519
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[102].name
+      value: EarOFF
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[103].hash
+      value: 2126785566
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[103].name
+      value: EarON
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[104].hash
+      value: -914993033
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[104].name
+      value: EarON InStation
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[105].hash
+      value: -1820077155
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[105].name
+      value: EarOFF InStation
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[106].hash
+      value: -1417859506
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[106].name
+      value: breast
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[107].hash
+      value: 1859526615
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[107].name
+      value: breast InStation
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[108].hash
+      value: -1181375395
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[108].name
+      value: LightSetting
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[109].hash
+      value: -1173029493
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: animationHashSet.Array.data[109].name
+      value: LightSetting In station
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336093456, guid: 9417930746d1b334f9b1a7747d777530, type: 3}
+      propertyPath: baseAnimationLayers.Array.data[4].animatorController
+      value: 
+      objectReference: {fileID: 9100000, guid: f42dc8e631f148140a276f9bb1a482ca, type: 2}
+    - target: {fileID: 2334664218323528374, guid: 9417930746d1b334f9b1a7747d777530,
+        type: 3}
+      propertyPath: m_TagString
+      value: EditorOnly
+      objectReference: {fileID: 0}
+    - target: {fileID: 6687440254908608625, guid: 9417930746d1b334f9b1a7747d777530,
+        type: 3}
+      propertyPath: m_TagString
+      value: EditorOnly
+      objectReference: {fileID: 0}
+    - target: {fileID: 7258867498588725586, guid: 9417930746d1b334f9b1a7747d777530,
+        type: 3}
+      propertyPath: m_Name
+      value: "Sophina \u7C21\u6613\u6539\u5909\u7528"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7657354806693454727, guid: 9417930746d1b334f9b1a7747d777530,
+        type: 3}
+      propertyPath: m_TagString
+      value: EditorOnly
+      objectReference: {fileID: 0}
+    - target: {fileID: 8068054883236985832, guid: 9417930746d1b334f9b1a7747d777530,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8068054883236985832, guid: 9417930746d1b334f9b1a7747d777530,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8068054883236985832, guid: 9417930746d1b334f9b1a7747d777530,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8068054883236985832, guid: 9417930746d1b334f9b1a7747d777530,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8068054883236985832, guid: 9417930746d1b334f9b1a7747d777530,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8068054883236985832, guid: 9417930746d1b334f9b1a7747d777530,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8068054883236985832, guid: 9417930746d1b334f9b1a7747d777530,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8068054883236985832, guid: 9417930746d1b334f9b1a7747d777530,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8068054883236985832, guid: 9417930746d1b334f9b1a7747d777530,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8068054883236985832, guid: 9417930746d1b334f9b1a7747d777530,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8068054883236985832, guid: 9417930746d1b334f9b1a7747d777530,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9417930746d1b334f9b1a7747d777530, type: 3}

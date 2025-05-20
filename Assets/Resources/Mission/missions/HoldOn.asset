@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6aba78a4c5c33b49b39118276a2901f, type: 3}
+  m_Name: HoldOn
+  m_EditorClassIdentifier: 
+  id: 19
+  type: 2
+  getItemID: 0
+  Interactprompt: 
+  MissionName: "\u6490\u4F4F"
+  shortDescription: "\u7B49\u50B3\u9001\u5668\u4FEE\u597D"
+  description: "\u7B49\u50B3\u9001\u5668\u4FEE\u597D"
+  Waypointsid: 
+  accomplishBehavior: 3
+  AccomplishNotice: 
+  AccomplishDialogue: 
+  DialogueSpeaker: 
+  dialogue: {fileID: 11400000, guid: e637e78acd3659545925a90667aaed63, type: 2}
