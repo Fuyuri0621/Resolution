@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Lucifer_ALLMenu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Costume
+    icon: {fileID: 2800000, guid: 6421b1fd56c109c46b96596b7b69011b, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: 260d706e2cee330489fb112eb361fb65, type: 2}
+    subParameters: []
+    labels: []
+  - name: LookAt
+    icon: {fileID: 2800000, guid: 8d102c5e93c5bef45acdad59d751afd8, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 1e3c595f3a37979458dda641c8245f5c, type: 2}
+    subParameters: []
+    labels: []
+  - name: Facial
+    icon: {fileID: 2800000, guid: 775d158310fb5974a9917433543afc29, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 367991c219d1bf740838188fbe5dc40f, type: 2}
+    subParameters: []
+    labels: []

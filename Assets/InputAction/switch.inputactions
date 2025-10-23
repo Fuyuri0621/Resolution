@@ -1,0 +1,34 @@
+{
+    "name": "switch",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "529f3d64-b7d8-41ed-9190-dff7e21dbf68",
+            "actions": [
+                {
+                    "name": "Switch",
+                    "type": "Button",
+                    "id": "e558dc44-a8d1-4a1e-bb49-fd9371be01ff",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "98225a5c-05f0-4005-b94c-bf9685df9993",
+                    "path": "<Keyboard>/q",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Switch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

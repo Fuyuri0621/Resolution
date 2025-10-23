@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7caa8e41bc1d93439d600f478177918, type: 3}
+  m_Name: New Stage Data
+  m_EditorClassIdentifier: 
+  stageNum: 0
+  stageEvents:
+  - eventType: 0
+    time: 1
+    message: 
+    barrierToSpawn: 1
+    objectToSpawn: {fileID: 0}
+    count: 1
+    isRepeatedEvent: 1
+    repeatEverySeconds: 3
+    repeatCount: 10
+  - eventType: 0
+    time: 30
+    message: 456
+    barrierToSpawn: 1
+    objectToSpawn: {fileID: 0}
+    count: 1
+    isRepeatedEvent: 1
+    repeatEverySeconds: 2
+    repeatCount: 10

@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Lucifer_Menu_Facial_Negative
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Angry
+    icon: {fileID: 2800000, guid: afb0f9562aede7a4a927e297c155fb5c, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 9
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Aozame
+    icon: {fileID: 2800000, guid: 5ad86a05cb3c7a348b667d2eb698d386, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 10
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Black
+    icon: {fileID: 2800000, guid: afd59a57f3b7e0e459c721ad8cbeabfc, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 11
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Cry1
+    icon: {fileID: 2800000, guid: 8ba0f7ce890a5e540b48fa39ccbff88b, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 12
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Guruguru
+    icon: {fileID: 2800000, guid: a16ae02e218a6dc489bafd79a907ff16, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 13
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Hawawa
+    icon: {fileID: 2800000, guid: 4e5cebe3bd0603b4ea89980d0572743c, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 14
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Jito
+    icon: {fileID: 2800000, guid: 396eb93af5e54dc40bad0aa498ba09a5, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 15
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Cry2
+    icon: {fileID: 2800000, guid: 5f56854fc1c131a4aa3fe25b2d4c3c89, type: 3}
+    type: 102
+    parameter:
+      name: Facial
+    value: 16
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

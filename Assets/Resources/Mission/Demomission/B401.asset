@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6aba78a4c5c33b49b39118276a2901f, type: 3}
+  m_Name: B401
+  m_EditorClassIdentifier: 
+  id: 1
+  type: 3
+  getItemID: 0
+  Interactprompt: 
+  MissionName: "\u958B\u9580"
+  shortDescription: "\u9032\u5165\u8B66\u885B\u5BA4"
+  description: "\u8B5A\u5F64\u9806\u5229\u900F\u904E\u8CA8\u68AF\u9032\u5165\u4E86\u8A2D\u65BD\u7684\u5730\u4E0B\u56DB\u5C64\n\n\u73FE\u5728\u5979\u8981\u524D\u5F80\u9023\u63A5\u8A2D\u65BD\u4E09\u5C64\u8207\u56DB\u5C64\u7684\u8B66\u885B\u5BA4\n\u958B\u555F\u9032\u5165\u8A2D\u65BD\u5167\u90E8\u7684\u5927\u9580\n\n\u8B93\u5169\u4EBA\u6703\u5408\u4E26\u66F4\u6DF1\u5165\u8A2D\u65BD\u5167\u90E8....."
+  Waypointsid: 04000000
+  accomplishBehavior: 1
+  AccomplishNotice: "\u8F15\u653B\u64CA \u6ED1\u9F20\u5DE6\u9375   \u91CD\u653B\u64CA
+    \u6ED1\u9F20\u53F3\u9375   \u9583\u907F \u7A7A\u767D\u9375   \u5207\u63DB\u89D2\u8272
+    Q"
+  AccomplishDialogue: 
+  DialogueSpeaker: 
+  dialogue: {fileID: 11400000, guid: bc03b8ddb56520748944919858ead7cd, type: 2}
+  SceneName: 
+  onAccomplish:
+    m_PersistentCalls:
+      m_Calls: []

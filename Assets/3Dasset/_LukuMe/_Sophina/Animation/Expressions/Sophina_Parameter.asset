@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1506855854, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Sophina_Parameter
+  m_EditorClassIdentifier: 
+  parameters:
+  - name: CN_CONTROLLER_TYPE_QUEST
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: CN_CONTROLLER_TYPE_INDEX
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: CN_EMOTE_LOCK_ENABLE
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: EM_EMOTE_SELECT_L
+    valueType: 0
+    saved: 0
+    defaultValue: 0
+  - name: SYNC_EM_EMOTE
+    valueType: 0
+    saved: 0
+    defaultValue: 0
+  - name: SYNC_CN_BLINK_ENABLE
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: EM_EMOTE_SELECT_R
+    valueType: 0
+    saved: 0
+    defaultValue: 0
+  - name: Face_Emote_Control
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: EmotePattern
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: reversal
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Clothes
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: breast
+    valueType: 1
+    saved: 1
+    defaultValue: 0.2
+  - name: Gimmick
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: SwatshirtsMAT
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: Patsun
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: Mekakure
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: Hair_Long
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: Hair_Short
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: Hair_wake
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: Hair_ahoge
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: Hair_side_left
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: Hair_side_right
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: Hair_Change
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: Face_Change
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: hue
+    valueType: 1
+    saved: 1
+    defaultValue: 0.5
+  - name: Voice
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: KemonoEarOFF
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: EarOFF
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: LightSetting
+    valueType: 1
+    saved: 1
+    defaultValue: 0.5
+  - name: InStationSwitching
+    valueType: 2
+    saved: 1
+    defaultValue: 1
+  - name: GimmickSwitching
+    valueType: 2
+    saved: 1
+    defaultValue: 1
+  - name: DaisukiSwitching
+    valueType: 2
+    saved: 1
+    defaultValue: 1
+  - name: BlinkSwitching
+    valueType: 2
+    saved: 1
+    defaultValue: 1

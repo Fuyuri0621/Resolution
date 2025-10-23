@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Clothes DEFAULTONLY
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Breast
+    icon: {fileID: 2800000, guid: 8715b4e9b9bbac645b40c5abff13157c, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: breast
+    labels: []
+  - name: Clothes OFF
+    icon: {fileID: 2800000, guid: eaebd13c8211c564d9a2579c7e51ca88, type: 3}
+    type: 102
+    parameter:
+      name: Clothes
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: NekoOFF
+    icon: {fileID: 2800000, guid: 14e122f3702dd0a47a7b1de32470534d, type: 3}
+    type: 102
+    parameter:
+      name: KemonoEarOFF
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: EarOFF
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EarOFF
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

@@ -1,0 +1,33 @@
+{
+    "name": "camera",
+    "maps": [
+        {
+            "name": "stander",
+            "id": "870fb517-ff1b-4fa5-a4a3-bc3725ce3cda",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Value",
+                    "id": "7e04011e-34e5-4bfe-a4e5-19b73cac40c3",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "5b3cf7d7-f0ca-4401-9d85-e555fd99eed6",
+                    "path": "<Mouse>/delta",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
