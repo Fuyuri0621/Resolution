@@ -33,7 +33,7 @@
 *.wav binary
 *.fbx binary
 *.obj binary
-*.dll binary
+*.dll filter=lfs diff=lfs merge=lfs -text
 *.exe binary
 *.so binary
 *.a binary
