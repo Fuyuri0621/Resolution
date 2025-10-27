@@ -1939,9 +1939,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   saveSlots:
-  - {fileID: 11400000, guid: 8f3c341997f25774a9e060c1bdb1a27a, type: 2}
   - {fileID: 11400000, guid: 75b2e3c5dd3d584428b2671c64023ba0, type: 2}
   - {fileID: 11400000, guid: 81ba0e3e41b91b749993cf1460adcca2, type: 2}
+  - {fileID: 11400000, guid: b31f477b29050794fa8e59d4b99cd253, type: 2}
   soltA: {fileID: 4567033253338605612}
   soltB: {fileID: 1151238426750248088}
   soltC: {fileID: 2331102792723533857}

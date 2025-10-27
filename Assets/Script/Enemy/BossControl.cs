@@ -504,8 +504,10 @@ public class BossControl : MonoBehaviour,IDamageable
     {
         yield return new WaitForSeconds(duration);
         GetComponent<BossSpecialCol>().enabled = false;
-        animator.Play("BossAttackAir");
+
         stats.state = EnemyAiState.pursuit;
+        yield return new WaitForSeconds(1f);
+        animator.Play("BossAttackAir");
     }
 
 

@@ -79,14 +79,8 @@ public class GameManager : MonoBehaviour
         failPanel = canvas.transform.Find("FailPanel").gameObject;
         menuPanel = canvas.transform.Find("MenuPanel").gameObject;
 
-    }
-    
-    public static GameManager Instance
-    {
-        get { return _instance; }
-    }
-    void Start()
-    {
+
+
         IsControlling = true;
         IsGameRunning = true;
 
@@ -101,8 +95,15 @@ public class GameManager : MonoBehaviour
             TempSave.selectedData = null;
             Loadsavedata();
         }
-       
-
+    }
+    
+    public static GameManager Instance
+    {
+        get { return _instance; }
+    }
+    void Start()
+    {
+      
     }
 
     private void Loadsavedata()
